@@ -35,4 +35,4 @@ Resources:
       Role: !GetAtt LambdaS3Role.Arn
       Code:
         S3Bucket: mytestcloudformationcodepipeline81214
-        S3Key: lambda.txt
+        S3Key: lambda.zip
